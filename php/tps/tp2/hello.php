@@ -1,8 +1,4 @@
 <?php
-/* 
-Realiser par : mahdi boughrous et ....;
-exercice n° : 1 ;
-*/
 
 
 //sans balisage
