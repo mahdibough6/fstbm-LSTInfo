@@ -1,0 +1,4 @@
+les informations de la personnes N°2
+nom :j
+prenom :j
+date :j
